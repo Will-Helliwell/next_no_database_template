@@ -1,3 +1,22 @@
+This is a template project I set up from scratch to make future development quicker.
+
+Features:
+- Frotned - React-style frontend pages in NextJs framework
+- Backend - Typescript backend files which can be deployed as serverless functions
+- CICD - CI pipeline runs ESlint and Prettier on whole repo. AUTomatic deployment to Vercel on merge/push to master.
+- No database connection yet (could use an ORM or not)
+
+## Stack
+
+| Tech | Use |
+|------------------|------------------|
+| NextJs | Web Framework  |
+| NextJs - API routes | Backend API routing + serverless functions |
+| Typescript | Backend |
+| ESLint | Linting |
+| Prettier | Formatting |
+| Github Actions | CI Pipeline |
+| Vercel | Deployment |
 
 ## Deployment
 
