@@ -1,7 +1,7 @@
 This is a template project I set up from scratch to make future development quicker.
 
 Features:
-- Frotned - React-style frontend pages in NextJs framework
+- Frontend - React-style frontend pages in NextJs framework
 - Backend - Typescript backend files which can be deployed as serverless functions
 - CICD - CI pipeline runs ESlint and Prettier on whole repo. AUTomatic deployment to Vercel on merge/push to master.
 - No database connection yet (could use an ORM or not)
@@ -16,11 +16,10 @@ Features:
 | ESLint | Linting |
 | Prettier | Formatting |
 | Github Actions | CI Pipeline |
-| Vercel | Deployment |
 
 ## Deployment
 
-View the live deployment [here](https://language-learning-helper-will-helliwell.vercel.app/).
+Not yet deployed as this is a template.
 
 ## Stack
 
